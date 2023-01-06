@@ -40,7 +40,7 @@ void Sort_012(int *a, int n)
             swap(&a[low++], &a[mid++]);
             break;
             // If the element is 1
-        case 1: // this one is crct.
+        case 1: //                                                              // this one is crct.
             mid++;
             break;
             // If the element is 2
